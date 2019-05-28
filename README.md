@@ -17,3 +17,6 @@
 4、截图：Amap_RN_01.jpg
 ![Image text](https://github.com/zhang-kui/image_folder/blob/master/Amap_RN_01.jpg)
 ![Image text](https://github.com/zhang-kui/image_folder/blob/master/Amap_RN_02.jpg)
+
+5、使用：
+    参考代码及‘./readme/*’目录
